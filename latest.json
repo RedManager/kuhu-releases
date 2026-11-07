@@ -1,0 +1,18 @@
+{
+  "build": 71,
+  "notes": {
+    "ru": [
+      "Поездка: «выходи через» теперь совпадает с экраном плана, цифры больше не прыгают при «Еду на этом» и «Закончить»"
+    ],
+    "en": [
+      "Ride: \"leave in\" now matches the plan screen; the numbers no longer jump when you tap \"I'm taking this one\" or \"Finish\""
+    ],
+    "et": [
+      "Sõit: „välju … pärast“ ühtib nüüd plaani vaatega, numbrid ei hüppa enam nuppudest „Sõidan sellega“ ja „Lõpeta“"
+    ]
+  },
+  "apk": "Kuhu.apk",
+  "bundle": "bundle-71.zip",
+  "checksum": "69ec02e174a732e490e020439d747203b8c43097d87b437d33b7abb642123a2c",
+  "shell": 60
+}
