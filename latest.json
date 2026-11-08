@@ -1,0 +1,30 @@
+{
+  "build": 78,
+  "notes": {
+    "ru": [
+      "Карточки мест снова полные, цвет показывает срочность: бирюзовый — можно не спешить, жёлтый — собирайся, красный — выходи",
+      "Палитра упрощена до семи цветов, один цвет на вид транспорта везде",
+      "Плитки линий квадратные, поезда оформлены так же и занимают всю строку",
+      "В расписании рейсы с низким полом отмечены значком коляски",
+      "Тёмная тема приведена к той же палитре, баннер сбоев читается"
+    ],
+    "en": [
+      "Place cards are full again and colour shows urgency: teal — no rush, yellow — get ready, red — leave now",
+      "The palette is simplified to seven colours, one colour per vehicle type everywhere",
+      "Line tiles are square, trains look the same and take the full row",
+      "Low-floor trips in the timetable are marked with a wheelchair icon",
+      "The dark theme now uses the same palette and the alerts banner is readable"
+    ],
+    "et": [
+      "Kohtade kaardid on taas täielikud ja värv näitab kiireloomulisust: türkiis — pole kiiret, kollane — valmistu, punane — välju",
+      "Värvipalett on lihtsustatud seitsmele värvile, igal transpordiliigil kõikjal oma värv",
+      "Liinide plaadid on ruudukujulised, rongid on samas stiilis ja võtavad terve rea",
+      "Sõiduplaanis on madalapõhjalised reisid märgitud ratastooli ikooniga",
+      "Tume teema kasutab sama paletti ja häiretebänner on loetav"
+    ]
+  },
+  "apk": "Kuhu.apk",
+  "bundle": "bundle-78.zip",
+  "checksum": "69157e54bb08c8fea49e9e6a959d5a31e359c1ac8d7e1e9d9debb5ca81ac8e2e",
+  "shell": 76
+}
