@@ -1,36 +1,24 @@
 {
-  "build": 83,
+  "build": 84,
   "notes": {
     "ru": [
-      "Карточки «Пора выходить» и «Собирайся» спокойнее: светлые, с цветной рамкой; время пешком жирным",
-      "На странице места карточка с отсчётом остаётся наверху, пока листаете варианты",
-      "В режиме поездки видно, к какой остановке идти",
-      "На остановке выбранный рейс показан на карте один, без других автобусов",
-      "Значок остановки на карте смотрит по ходу автобуса",
-      "В настройке снова видны значки дома и работы",
-      "Объявления перевозчика звучат спокойнее: «Есть изменения в движении»"
+      "В поездке видно, какая остановка следующая: пройденные бледные, следующая отмечена на линии",
+      "На конечной (например, Lennujaam) приложение больше не теряет трамвай, который уже стоит у остановки",
+      "На карте видны остановки, которые автобус проедет по пути к вам"
     ],
     "en": [
-      "\"Time to go\" and \"Get ready\" cards are calmer: light, with a coloured border; walking time in bold",
-      "On a place page the countdown card stays on top while you scroll the options",
-      "In ride mode you can see which stop to walk to",
-      "At a stop the selected trip is shown on the map on its own, without other buses",
-      "The stop sign on the map points the way the bus goes",
-      "The home and work icons are visible again in the setup",
-      "Carrier notices sound calmer: \"Service changes on this route\""
+      "During a ride you can see the next stop: passed stops are faded, the next one is marked on the line",
+      "At a terminus (for example, Lennujaam) the app no longer loses the tram already waiting at the stop",
+      "The map shows the stops the bus will pass on its way to you"
     ],
     "et": [
-      "Kaardid «On aeg minna» ja «Valmistu» on rahulikumad: heledad, värvilise äärisega; jalgsi aeg paksus kirjas",
-      "Koha lehel jääb ajaloenduri kaart üles, kui sirvid variante",
-      "Sõidurežiimis on näha, millisesse peatusesse minna",
-      "Peatuses näidatakse valitud reisi kaardil üksi, ilma teiste bussideta",
-      "Peatuse märk kaardil näitab bussi sõidusuunda",
-      "Seadistuses on kodu ja töö ikoonid jälle nähtavad",
-      "Vedaja teated on rahulikumad: «Sellel marsruudil on liikluses muudatusi»"
+      "Sõidu ajal on näha järgmine peatus: läbitud peatused on tuhmid, järgmine on liinil märgitud",
+      "Lõpp-peatuses (näiteks Lennujaam) ei kaota äpp enam trammi, mis juba peatuses ootab",
+      "Kaardil on näha peatused, mida buss sinu juurde sõites läbib"
     ]
   },
   "apk": "Kuhu.apk",
-  "bundle": "bundle-83.zip",
-  "checksum": "9102e417ac8dc5efda4f75f72866a1cf153542851d89b8cf14818a8d70b5f5ce",
+  "bundle": "bundle-84.zip",
+  "checksum": "cede48f92fbec6e15a8ce2c1185d07cdffa3aa5c421a25747be3f6640f33d403",
   "shell": 76
 }
