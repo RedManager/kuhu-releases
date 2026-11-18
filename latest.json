@@ -1,24 +1,21 @@
 {
-  "build": 84,
+  "build": 87,
   "notes": {
     "ru": [
-      "В поездке видно, какая остановка следующая: пройденные бледные, следующая отмечена на линии",
-      "На конечной (например, Lennujaam) приложение больше не теряет трамвай, который уже стоит у остановки",
-      "На карте видны остановки, которые автобус проедет по пути к вам"
+      "Настройки разбиты на разделы: «Мои места», «Время выхода», «Маршруты», «Вид», «Приложение»",
+      "В настройках указан источник расписаний — открытые данные регистра общественного транспорта Эстонии"
     ],
     "en": [
-      "During a ride you can see the next stop: passed stops are faded, the next one is marked on the line",
-      "At a terminus (for example, Lennujaam) the app no longer loses the tram already waiting at the stop",
-      "The map shows the stops the bus will pass on its way to you"
+      "Settings are grouped into sections: My places, Leaving time, Routes, Appearance, App",
+      "Settings now name the timetable source: open data of the Estonian public transport register"
     ],
     "et": [
-      "Sõidu ajal on näha järgmine peatus: läbitud peatused on tuhmid, järgmine on liinil märgitud",
-      "Lõpp-peatuses (näiteks Lennujaam) ei kaota äpp enam trammi, mis juba peatuses ootab",
-      "Kaardil on näha peatused, mida buss sinu juurde sõites läbib"
+      "Seaded on jaotatud osadeks: Minu kohad, Minekuaeg, Marsruudid, Välimus, Rakendus",
+      "Seadetes on märgitud sõiduplaanide allikas: Eesti ühistranspordiregistri avaandmed"
     ]
   },
   "apk": "Kuhu.apk",
-  "bundle": "bundle-84.zip",
-  "checksum": "cede48f92fbec6e15a8ce2c1185d07cdffa3aa5c421a25747be3f6640f33d403",
+  "bundle": "bundle-87.zip",
+  "checksum": "1ae8bebb2e856f16df88d620dc85b87732e2d1e35b838ec7f23e4247317997e7",
   "shell": 76
 }
