@@ -1,21 +1,21 @@
 {
-  "build": 87,
+  "build": 89,
   "notes": {
     "ru": [
-      "Настройки разбиты на разделы: «Мои места», «Время выхода», «Маршруты», «Вид», «Приложение»",
-      "В настройках указан источник расписаний — открытые данные регистра общественного транспорта Эстонии"
+      "«Поддержать Kuhu» теперь первым пунктом в настройках",
+      "Если вы уже у остановки, сборы и запас не прибавляются: видно автобус, на который ещё успеваете. Метку «Вы у остановки» можно нажать и выключить"
     ],
     "en": [
-      "Settings are grouped into sections: My places, Leaving time, Routes, Appearance, App",
-      "Settings now name the timetable source: open data of the Estonian public transport register"
+      "“Support Kuhu” is now at the top of Settings",
+      "If you are already at the stop, prep and buffer time are not added: you see the bus you can still catch. Tap the “At the stop” label to turn it off"
     ],
     "et": [
-      "Seaded on jaotatud osadeks: Minu kohad, Minekuaeg, Marsruudid, Välimus, Rakendus",
-      "Seadetes on märgitud sõiduplaanide allikas: Eesti ühistranspordiregistri avaandmed"
+      "„Toeta Kuhu“ on nüüd seadetes esimene",
+      "Kui olete juba peatuses, ei lisata ettevalmistust ega varu: näete bussi, millele veel jõuate. Märget „Olete peatuses“ saab vajutades välja lülitada"
     ]
   },
   "apk": "Kuhu.apk",
-  "bundle": "bundle-87.zip",
-  "checksum": "1ae8bebb2e856f16df88d620dc85b87732e2d1e35b838ec7f23e4247317997e7",
+  "bundle": "bundle-89.zip",
+  "checksum": "973015e9846f343a410f6bc6d14f92c36c694db7c2c1b04cab5bdf96e2a5f8fa",
   "shell": 76
 }
