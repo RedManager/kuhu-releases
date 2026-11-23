@@ -1,21 +1,21 @@
 {
-  "build": 89,
+  "build": 90,
   "notes": {
     "ru": [
-      "«Поддержать Kuhu» теперь первым пунктом в настройках",
-      "Если вы уже у остановки, сборы и запас не прибавляются: видно автобус, на который ещё успеваете. Метку «Вы у остановки» можно нажать и выключить"
+      "«Другое время»: на экране поездки можно выбрать «Выехать в» или «Приехать к» на сегодня или завтра; колокольчик напомнит выйти к этому времени",
+      "Отсчёт «1 ч 05 мин» читается легче и не сдвигает карточку"
     ],
     "en": [
-      "“Support Kuhu” is now at the top of Settings",
-      "If you are already at the stop, prep and buffer time are not added: you see the bus you can still catch. Tap the “At the stop” label to turn it off"
+      "“Another time”: on the trip screen choose “Leave at” or “Arrive by” for today or tomorrow; the bell reminds you when to leave",
+      "The “1 h 05 min” countdown is easier to read and no longer shifts the card"
     ],
     "et": [
-      "„Toeta Kuhu“ on nüüd seadetes esimene",
-      "Kui olete juba peatuses, ei lisata ettevalmistust ega varu: näete bussi, millele veel jõuate. Märget „Olete peatuses“ saab vajutades välja lülitada"
+      "„Muu aeg“: sõidu ekraanil saab valida „Väljun kell“ või „Kohal kell“ tänaseks või homseks; kell tuletab meelde, millal minna",
+      "Loendur „1 h 05 min“ on paremini loetav ega nihuta enam kaarti"
     ]
   },
   "apk": "Kuhu.apk",
-  "bundle": "bundle-89.zip",
-  "checksum": "973015e9846f343a410f6bc6d14f92c36c694db7c2c1b04cab5bdf96e2a5f8fa",
+  "bundle": "bundle-90.zip",
+  "checksum": "28be8e0e5da16e8cfe861cd68096f3bc8c59a45a143b20bea5e512c8ca438bfd",
   "shell": 76
 }
