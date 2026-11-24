@@ -1,21 +1,21 @@
 {
-  "build": 90,
+  "build": 91,
   "notes": {
     "ru": [
-      "«Другое время»: на экране поездки можно выбрать «Выехать в» или «Приехать к» на сегодня или завтра; колокольчик напомнит выйти к этому времени",
-      "Отсчёт «1 ч 05 мин» читается легче и не сдвигает карточку"
+      "В режиме «Еду на этом» посадка определяется раньше: по скорости и движению вдоль линии",
+      "У каждой остановки в списке кружок; синяя точка показывает, где вы сейчас"
     ],
     "en": [
-      "“Another time”: on the trip screen choose “Leave at” or “Arrive by” for today or tomorrow; the bell reminds you when to leave",
-      "The “1 h 05 min” countdown is easier to read and no longer shifts the card"
+      "In “I'm on this one” mode boarding is detected sooner: by speed and movement along the line",
+      "Every stop in the list has a circle; the blue dot shows where you are now"
     ],
     "et": [
-      "„Muu aeg“: sõidu ekraanil saab valida „Väljun kell“ või „Kohal kell“ tänaseks või homseks; kell tuletab meelde, millal minna",
-      "Loendur „1 h 05 min“ on paremini loetav ega nihuta enam kaarti"
+      "Režiimis „Sõidan sellega“ tuvastatakse pealeminek varem: kiiruse ja liini mööda liikumise järgi",
+      "Igal peatusel loendis on ring; sinine täpp näitab, kus te praegu olete"
     ]
   },
   "apk": "Kuhu.apk",
-  "bundle": "bundle-90.zip",
-  "checksum": "28be8e0e5da16e8cfe861cd68096f3bc8c59a45a143b20bea5e512c8ca438bfd",
+  "bundle": "bundle-91.zip",
+  "checksum": "41ec5e9e870df592b04f9741e3e091f3171f33907758529e64f735e47f8dfdc0",
   "shell": 76
 }
